@@ -2,3 +2,4 @@
 Petit programme d’accueil pour le cours DevOps & MLOps.
 Auteur: BOUCHRA TOR
 Dépôt publié sur GitHub.
+Documentation : exécuter python main.py.
