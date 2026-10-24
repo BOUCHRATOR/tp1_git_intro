@@ -1,3 +1,3 @@
-print("Bienvenue dans la version principale.")
+print("Bienvenue au cours DevOps & MLOps.")
 print("Fonctionnalite : message personnalise.")
 print("Objectif : comprendre les commits.")
