@@ -1,1 +1,1 @@
-print("Bonjour DevOps & MLOps!")
+print("Bienvenue au TP Git.")
